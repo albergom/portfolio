@@ -1,4 +1,4 @@
-## My name is Albert bercero Gómez
+## My name is Albert Bercero Gómez
 WELCOME TO MY PORTFOLIO
 
 ### Markdown
